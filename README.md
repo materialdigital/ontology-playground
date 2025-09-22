@@ -30,6 +30,7 @@ Some interesting and relevant presentations and talks at the PMD Ontology Playgr
 Please kindly find direct links to a selection of recordings here:
 
 * [2025-09-05 | *T. Hanke*: Presentation of the PMD Application Ontology creation template for GitHub repositories](https://materialdigital.de/download/2025-09-05_Application_Ontology_creation_template_GitHub.mp4)
+* [2025-09-12 | *T. Tietz*: Presentation on an Introduction to the Ontology Development Kit (ODK) used in PMD GitHub repositories](https://materialdigital.de/download/2025-09-12_Special_Edition_Intro_to_ODK.mp4)
 
 ## Links
 Please find further relevant links referring to the PMD Ontology Playground and the PMD project:
