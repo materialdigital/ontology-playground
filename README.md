@@ -32,6 +32,7 @@ Please kindly find direct links to a selection of recordings here:
 * [2025-09-05 | *T. Hanke*: Presentation of the PMD Application Ontology creation template for GitHub repositories](https://materialdigital.de/download/2025-09-05_Application_Ontology_creation_template_GitHub.mp4)
 * [2025-09-12 | *T. Tietz*: Presentation on an Introduction to the Ontology Development Kit (ODK) used in PMD GitHub repositories](https://materialdigital.de/download/2025-09-12_Special_Edition_Intro_to_ODK.mp4)
 * [2025-10-17 | *T. Bjarsch*: To Be FAIR: It’s Not Perfect, But Worth It | Approaches, Lessons Learned & Demos (HybridDigital)](https://materialdigital.de/download/2025-10-17_To_be_fair-Its_not_perfect_but_worth_it.mp4)
+* [2025-12-12 | *H. Nasrabadi*: Introduction to Vickers Hardness Testing Ontology (VTO)](https://materialdigital.de/download/2025-12-12_Introduction_to_Vickers_Hardness_Testing_Ontology.mp4)
 
 Furthermore, published presentations from the PMD Ontology Playground can be found on the [PMD YouTube channel](https://www.youtube.com/channel/UCAwf5QXQ6Oa4NPaL3bXFvAA).
 
